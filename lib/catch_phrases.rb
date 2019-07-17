@@ -17,4 +17,5 @@ end
 
 def any_phrase(phrase)
   output = puts "#{phrase}"
+  output
 end
